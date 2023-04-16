@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS, DSA**
 
-- 👨‍💻 All of my projects are available at [https://yogendradevil.github.io/Portfolio-Website/files/index.html](https://yogendradevil.github.io/Portfolio-Website/files/index.html)
+- 👨‍💻 All of my projects are available at [https://yogendradevil.github.io/portfolio/#/](https://yogendradevil.github.io/portfolio/#/)
 
 - 📫 How to reach me **yogendrabijapur2002@gmail.com**
 
