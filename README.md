@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React JS, DSA<br><br>👨‍💻 All of my projects are available at https://yogendradevil.github.io/portfolio/#/<br><br>📫 How to reach me yogendrabijapur2002@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1-yCSME_SJaVjpMZ_3x1yHPmKNDmPrPC0/view?usp=sharing
+👨‍💻 All of my projects are available at my portfolio: https://yogendradevil.github.io/portfolio/#/<br><br>📫 How to reach me yogendrabijapur2002@gmail.com<br><br>📄 Resume: [ https://drive.google.com/file/d/1-yCSME_SJaVjpMZ_3x1yHPmKNDmPrPC0/view?usp=sharing](https://drive.google.com/file/d/1vhHBq-xhzeGytwGrSh-qIIgfQt73_gMy/view?usp=sharing)
 
 
 ## 🌐 Socials:
